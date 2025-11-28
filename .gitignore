@@ -1,4 +1,8 @@
-
-
 # HubSpot config file
 hubspot.config.yml
+# HubSpot CLI cache
+.hscache/
+# Node modules (if you add NPM later)
+node_modules/
+# macOS junk
+.DS_Store
