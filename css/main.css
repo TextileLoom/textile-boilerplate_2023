@@ -1,7 +1,9 @@
+/* Here's a change I made in the IDE*/
+
 /* Theme base styles */
 
 /* Comment Test - Another Comment*/
-body { background: hotpink !important; }
+
 /* Tools
 Any animations, or functions used throughout the project.
 Note: _macros.css needs to be imported into each stylesheet where macros are used and not included here
